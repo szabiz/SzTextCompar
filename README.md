@@ -56,7 +56,7 @@ Kept deliberately to formats that need **no external library and no extra licens
 ## Running from source
 
 ```bash
-python SabTextCompar.py
+python SzTextCompar.py
 ```
 
 ## Building the Windows executable
@@ -64,7 +64,7 @@ python SabTextCompar.py
 Built with [PyInstaller](https://pyinstaller.org/) in **onedir** mode:
 
 ```bash
-pyinstaller --windowed --icon SzTc.ico --name SzTextCompar SabTextCompar.py
+pyinstaller --windowed --icon SzTc.ico --name SzTextCompar SzTextCompar.py
 ```
 
 Ship the `LICENSE`, `NOTICE` and `THIRD_PARTY_LICENSES.txt` files together with the contents of the `dist/SzTextCompar` folder.
