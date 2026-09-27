@@ -36,7 +36,7 @@ Written in pure Python (Tkinter), with **no third-party runtime dependency** —
 
 ### File formats
 Kept deliberately to formats that need **no external library and no extra license**:
-- **Open, read**: `.txt` (auto-detects UTF-8 / UTF-8 BOM / UTF-16 / Windows-1250 / ISO-8859-2), `.md`, `.log`, `.csv`, `.tsv`, `.json`, `.xml`, `.tex`, `.rst`, `.srt`, `.vtt`, `.ass`, `.ssa`, `.sbv`, `.lrc`, `.html`/`.htm`, **`.docx`**, **`.odt`**, **`.epub`**.
+- **Open, read**: `.txt` (auto-detects UTF-8 / UTF-8 BOM / UTF-16 / Windows-1250 / ISO-8859-2), `.md`, `.log`, `.csv`, `.tsv`, `.json`, `.xml`, `.tex`, `.rst`, `.srt`, `.PY`, `.vtt`, `.ass`, `.ssa`, `.sbv`, `.lrc`, `.html`/`.htm`, **`.docx`**, **`.odt`**, **`.epub`**.
 - **Save, with highlight colors and underline**: plain text, `.html`, **`.docx`**, **`.odt`**.
 - Every reader/writer above (DOCX, ODT, EPUB, HTML) is original code built directly on the published, open specifications, using only `zipfile`, `xml.etree.ElementTree`, `html.parser`, `zlib` and `struct` from the standard library — no PyPI package, so no extra license terms to track.
 
