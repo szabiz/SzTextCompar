@@ -86,4 +86,9 @@ The application icon is original artwork (see `make_icon.py`); no third-party fo
 The similarity algorithms used (Simhash, Winnowing, TF-IDF/cosine, Jaccard, suffix-automaton matching) are published, freely implementable methods, implemented independently for this project — no third-party source code was used for them.
 
 > The application's results are similarity indicators only, and do not by themselves prove copying, plagiarism, or copyright infringement.
+>
+> ![1](images/SzTc_1.jpg)
+> ![2](images/SzTc_2.jpg)
+> ![3](images/SzTc_3.jpg)
+> ![4](images/SzTc_4.jpg)
 
