@@ -4,7 +4,6 @@
 
 Written in pure Python (Tkinter), with **no third-party runtime dependency** — the source imports only the Python standard library.
 
-![icon](SzTc_1024.png)
 
 ---
 
