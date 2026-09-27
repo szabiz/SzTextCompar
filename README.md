@@ -75,7 +75,7 @@ Ship the `LICENSE`, `NOTICE` and `THIRD_PARTY_LICENSES.txt` files together with 
 
 ## License
 
-**SzTextCompar's own source code** is Copyright © 2026 szabiz, licensed under the **Apache License, Version 2.0** — see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE).
+**SzTextCompar's own source code** is Copyright © 2026 szabiz, licensed under the **Apache License, Version 2.0** — see [`LICENSE`](LICENSE)
 
 The application source imports **only Python standard-library modules** (`tkinter`, `difflib`, `re`, `json`, `hashlib`, `pathlib`, `collections`, `math`, `threading`, `time`, `bisect`, `html`, `string`, `os`, `webbrowser`, `zipfile`, `xml.etree.ElementTree`, `zlib`, `struct`, `posixpath`, `urllib.parse`, `concurrent.futures`) — no PyPI package is required to run it from source, and none is vendored or copied into the repository.
 
