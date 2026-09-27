@@ -1,0 +1,13 @@
+SzTextCompar
+
+Copyright (C) 2026 szabiz
+
+This product includes third-party components.
+See THIRD_PARTY_LICENSES.txt
+for third-party licensing information.
+
+Project website:
+https://github.com/....
+
+Author:
+szabiz
