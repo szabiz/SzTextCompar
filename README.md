@@ -87,4 +87,3 @@ The similarity algorithms used (Simhash, Winnowing, TF-IDF/cosine, Jaccard, suff
 
 > The application's results are similarity indicators only, and do not by themselves prove copying, plagiarism, or copyright infringement.
 
-*Soli Deo Gloria*
