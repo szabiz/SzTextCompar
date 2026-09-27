@@ -87,8 +87,7 @@ The similarity algorithms used (Simhash, Winnowing, TF-IDF/cosine, Jaccard, suff
 
 > The application's results are similarity indicators only, and do not by themselves prove copying, plagiarism, or copyright infringement.
 >
-> ![1](images/SzTc_1.jpg)
-> ![2](images/SzTc_2.jpg)
-> ![3](images/SzTc_3.jpg)
-> ![4](images/SzTc_4.jpg)
-
+![1](SzTc_1.jpg)
+![2](SzTc_2.jpg)
+![3](SzTc_3.jpg)
+![4](SzTc_4.jpg)
