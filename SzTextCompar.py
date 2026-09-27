@@ -4921,7 +4921,7 @@ class SzTextCompar(tk.Tk):
         self._egyezesi_blokkok_alkalmazasa(blokkok)
         self._egyezesi_panel_megjelenitese(blokkok, *szovegek)
         self._utolso_egyezesi_blokkok = blokkok
-        self.statusz_var.set(f"Pontos egyezés ({minimum} szó): {len(blokkok)} szakasz a két szövegben.")
+        self.statusz_var.set(tr(f"Pontos egyezés ({minimum} szó): {len(blokkok)} szakasz a két szövegben."))
 
     def _frissit_sorszamok(self, widget):
         """A Text mező bal oldalán megjeleníti a tényleges (logikai) sorszámokat.
